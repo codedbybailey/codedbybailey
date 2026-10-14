@@ -1,4 +1,4 @@
-Hi there! I'm Bailey ♡ 🎀
+#Hi there! I'm Bailey ♡ 🎀
 
 💻 Computer Science Student | Aspiring Software Developer | Girl in Tech
 
