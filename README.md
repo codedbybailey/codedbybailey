@@ -1,31 +1,71 @@
-#Hi there! I'm Bailey ♡ 🎀
 
-💻 Computer Science Student | Aspiring Software Developer | Girl in Tech
+<div align="center">
 
-Welcome to my little corner of GitHub! 🌷
+# ♡ Welcome to my GitHub ♡
 
-I'm Bailey, a Computer Science student pursuing minors in Mathematics and Military Science.
+`cs student` · `texas based` · `aspiring developer`
 
-I'm passionate about technology, creative problem-solving, and learning how to turn ideas into real, working applications. I'm currently exploring software development, artificial intelligence, and cybersecurity while building my programming skills one project at a time!
+---
 
-🌸 A Little About Me
+### 💌 about me
 
-  🎓 Computer Science student
+</div>
 
-  💗 Interested in software engineering, AI, and cybersecurity
+```python
+class CodedByBailey:
+    def __init__(self):
+        self.location = "Texas"
+        self.education = "Computer Science Student"
+        self.interests = [
+            "Software Development",
+            "Artificial Intelligence",
+            "Cybersecurity"
+        ]
+        self.currently_learning = ["Java", "Python"]
+        self.goal = "Turn ideas into real projects ♡"
+```
 
-  ☕ Currently learning Java and Python
+### 🌷 a little more about me
 
-  🧠 Previous experience working with AI model training, testing, and data analysis
+Hii I am Bailey! I'm a Computer Science student
+based in Texas who loves creativity, problem solving,
+and learning new things! I enjoy challenging myself,
+exploring new ideas, and finding ways to bring them
+to life. Outside of coding I love embracing my
+creative side and finding joy in the little things.
+I'm always looking for new experiences, opportunities
+to grow, and ways to make a difference!
 
-  ✨ Building my coding portfolio through hands-on projects
+---
 
-  🎀 My goal is to become a software developer and keep growing in tech!
-  
-💌 Let's Connect!
+### 🛠️ Tech Stack & Tools
 
-I'm always excited to connect with other students, developers, and people who share a passion for technology!
+**Languages**
 
-Feel free to explore my projects, follow along with my coding journey, or reach out!
+![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=coffeescript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-CDB4DB?style=for-the-badge&logo=python&logoColor=black)
 
-Thanks for stopping by my GitHub! ♡
+**Developer Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-A2D2FF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Git](https://img.shields.io/badge/Git-B9E4C9?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-FFE5A5?style=for-the-badge&logo=github&logoColor=black)
+
+---
+
+### 🌸 Currently Learning
+
+- ♡ Python programming
+- ♡ Java fundamentals
+- ♡ Object-oriented programming
+- ♡ Git & version control
+- ♡ Building real-world applications
+
+---
+
+<div align="center">
+
+### 💌 thanks for stopping by!
+
+
+</div>
