@@ -63,14 +63,4 @@ programming concepts, and building fun projects!
 
 ---
 
-### 🌸 currently learning
-
-- ♡ Python programming
-- ♡ Java fundamentals
-- ♡ Object-oriented programming
-- ♡ Git and version control
-- ♡ Building real-world applications
-
----
-
 </div>
