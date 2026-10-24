@@ -3,7 +3,7 @@
 
 # ♡ welcome to my little corner of GitHub ♡
 
-### 🎀 just a girl who loves to code 🎀
+###  just a girl who loves to code 
 
 `cs student` · `texas based` · `aspiring developer`
 
@@ -13,7 +13,7 @@
 
 </div>
 
-### 🌷 a little more about me
+###  a little more about me
 
 Hi, I am Bailey! ♡ I'm a Computer Science student
 based in Texas who loves creativity, problem-solving,
@@ -25,12 +25,12 @@ of coding, I love embracing my creative side and
 finding joy in the little things.
 
 I'm always looking for new experiences,
-opportunities to grow, and ways to make a difference! 🎀
+opportunities to grow, and ways to make a difference! 
 
 Recently, I've been exploring web development and
 creative design! I love experimenting with colors,
 animations, and interactive elements to make
-websites feel a little more personal. 🌸
+websites feel a little more personal. 
 
 ---
 
@@ -56,9 +56,9 @@ websites feel a little more personal. 🌸
 
 ---
 
-### 💕 featured projects
+###  featured projects
 
-#### 🌸 Personal Portfolio
+####  Personal Portfolio
 
 My own little corner of the internet!
 
@@ -100,7 +100,7 @@ documenting my progress in programming.
 - User input
 - Basic problem-solving
 
-🌷 explore my [java-playground](https://github.com/codedbybailey/java-playground)
+ explore my [java-playground](https://github.com/codedbybailey/java-playground)
 
 ---
 
@@ -124,7 +124,7 @@ documenting my progress in programming.
 
 ### ♡ thanks for visiting my little corner! ♡
 
-🎀 [explore my portfolio](https://codedbybailey.github.io/my-portfolio/) 🎀
+ [explore my portfolio](https://codedbybailey.github.io/my-portfolio/) 
 
 </div>
 
